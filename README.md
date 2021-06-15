@@ -1,2 +1,2 @@
-# android_device_m30sdd
-Device Tree of M30s
+# havoc_device_m30sdd
+havoc device Tree of M30s
