@@ -1,0 +1,12 @@
+[
+    {
+        "repository": "Havoc-Devices/android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "revision": "eleven"
+    },
+    {
+        "repository": "Havoc-Devices/android_kernel_samsung_slsi_fm",
+        "target_path": "kernel/samsung/universal9810",
+        "revision": "eleven"
+    }
+]
