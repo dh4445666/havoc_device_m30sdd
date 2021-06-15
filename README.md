@@ -1,2 +1,3 @@
 # havoc_device_m30sdd
-havoc device Tree of M30s
+
+Havoc device Tree of M30s inspired from work of @santhosh6194 and @kraken25
